@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Parveensalha/reactupload/static/css/main.12866545.css",
-    "main.js": "/Parveensalha/reactupload/static/js/main.5f748538.js",
-    "static/js/787.a91053ce.chunk.js": "/Parveensalha/reactupload/static/js/787.a91053ce.chunk.js",
-    "index.html": "/Parveensalha/reactupload/index.html",
-    "main.12866545.css.map": "/Parveensalha/reactupload/static/css/main.12866545.css.map",
-    "main.5f748538.js.map": "/Parveensalha/reactupload/static/js/main.5f748538.js.map",
-    "787.a91053ce.chunk.js.map": "/Parveensalha/reactupload/static/js/787.a91053ce.chunk.js.map"
+    "main.css": "/reactupload/static/css/main.12866545.css",
+    "main.js": "/reactupload/static/js/main.20eba7e2.js",
+    "static/js/787.a91053ce.chunk.js": "/reactupload/static/js/787.a91053ce.chunk.js",
+    "index.html": "/reactupload/index.html",
+    "main.12866545.css.map": "/reactupload/static/css/main.12866545.css.map",
+    "main.20eba7e2.js.map": "/reactupload/static/js/main.20eba7e2.js.map",
+    "787.a91053ce.chunk.js.map": "/reactupload/static/js/787.a91053ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12866545.css",
-    "static/js/main.5f748538.js"
+    "static/js/main.20eba7e2.js"
   ]
 }
