@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Parveensalha/reactupload/static/css/main.12866545.css",
+    "main.js": "/Parveensalha/reactupload/static/js/main.5f748538.js",
+    "static/js/787.a91053ce.chunk.js": "/Parveensalha/reactupload/static/js/787.a91053ce.chunk.js",
+    "index.html": "/Parveensalha/reactupload/index.html",
+    "main.12866545.css.map": "/Parveensalha/reactupload/static/css/main.12866545.css.map",
+    "main.5f748538.js.map": "/Parveensalha/reactupload/static/js/main.5f748538.js.map",
+    "787.a91053ce.chunk.js.map": "/Parveensalha/reactupload/static/js/787.a91053ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12866545.css",
+    "static/js/main.5f748538.js"
+  ]
+}
