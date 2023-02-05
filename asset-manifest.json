@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactupload/static/css/main.12866545.css",
-    "main.js": "/reactupload/static/js/main.20eba7e2.js",
-    "static/js/787.a91053ce.chunk.js": "/reactupload/static/js/787.a91053ce.chunk.js",
-    "index.html": "/reactupload/index.html",
-    "main.12866545.css.map": "/reactupload/static/css/main.12866545.css.map",
-    "main.20eba7e2.js.map": "/reactupload/static/js/main.20eba7e2.js.map",
-    "787.a91053ce.chunk.js.map": "/reactupload/static/js/787.a91053ce.chunk.js.map"
+    "main.css": "/Happy-Shopping/static/css/main.d553a323.css",
+    "main.js": "/Happy-Shopping/static/js/main.b56eb97d.js",
+    "static/js/787.a91053ce.chunk.js": "/Happy-Shopping/static/js/787.a91053ce.chunk.js",
+    "index.html": "/Happy-Shopping/index.html",
+    "main.d553a323.css.map": "/Happy-Shopping/static/css/main.d553a323.css.map",
+    "main.b56eb97d.js.map": "/Happy-Shopping/static/js/main.b56eb97d.js.map",
+    "787.a91053ce.chunk.js.map": "/Happy-Shopping/static/js/787.a91053ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12866545.css",
-    "static/js/main.20eba7e2.js"
+    "static/css/main.d553a323.css",
+    "static/js/main.b56eb97d.js"
   ]
 }
